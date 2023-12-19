@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="setup.FinderTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-10-13T18:14:37" hostname="DEX" time="0.007">
+  <properties/>
+  <testcase name="testFind3Complex" classname="setup.FinderTest" time="0.002"/>
+  <testcase name="testFind1Empty" classname="setup.FinderTest" time="0.001"/>
+  <testcase name="testFind1Pairs" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind2Empty" classname="setup.FinderTest" time="0.001"/>
+  <testcase name="testFind2Pairs" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind3Empty" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind3Pairs" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind4Empty" classname="setup.FinderTest" time="0.001"/>
+  <testcase name="testFind4Pairs" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind4Singleton" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind1Complex" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind3Singleton" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind2Singleton" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind1Singleton" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind4Complex" classname="setup.FinderTest" time="0.0"/>
+  <testcase name="testFind2Complex" classname="setup.FinderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graph.scriptTestRunner.ScriptFileTests" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-11-19T00:53:35" hostname="DEX" time="0.231">
+  <properties/>
+  <testcase name="checkOutput[cycleGraph]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.117"/>
+  <testcase name="checkOutput[emptyGraphTest]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.006"/>
+  <testcase name="checkOutput[exampleTest1]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.009"/>
+  <testcase name="checkOutput[exampleTest2]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.011"/>
+  <testcase name="checkOutput[multiEdgeTest]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.008"/>
+  <testcase name="checkOutput[multiGraphTest]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.008"/>
+  <testcase name="checkOutput[multiNodeEdgeGraphTest]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.043"/>
+  <testcase name="checkOutput[multiNodeTest]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.005"/>
+  <testcase name="checkOutput[oneEdgeTest]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.007"/>
+  <testcase name="checkOutput[oneNodeTest]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.005"/>
+  <testcase name="checkOutput[sameNodeEdgeTest]" classname="graph.scriptTestRunner.ScriptFileTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

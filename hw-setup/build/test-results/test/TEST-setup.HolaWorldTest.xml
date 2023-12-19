@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="setup.HolaWorldTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-13T18:14:37" hostname="DEX" time="0.012">
+  <properties/>
+  <testcase name="testCrash" classname="setup.HolaWorldTest" time="0.007"/>
+  <testcase name="testMainOutput" classname="setup.HolaWorldTest" time="0.005"/>
+  <testcase name="testGreeting" classname="setup.HolaWorldTest" time="0.0"/>
+  <system-out><![CDATA[Hello World!
+Hola Mundo!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

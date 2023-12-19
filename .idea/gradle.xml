@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/hw-base" />
+            <option value="$PROJECT_DIR$/hw-campuspaths-server" />
+            <option value="$PROJECT_DIR$/hw-graph" />
+            <option value="$PROJECT_DIR$/hw-lines" />
+            <option value="$PROJECT_DIR$/hw-pathfinder" />
+            <option value="$PROJECT_DIR$/hw-sets" />
+            <option value="$PROJECT_DIR$/hw-setup" />
+            <option value="$PROJECT_DIR$/hw-tasks" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+CSE 331 Homework.  Answers to written questions.
+Edit this file to supply your answers.
+
+Name: Ian Tsai
+
+Describe any additional functionality you added to your application, or any
+significant changes you made to the starter code beyond the basic requirements
+of the assignment, below:
+    I included a new tsx file named Interfaces that constructs a new interface to handle the lines
+    for the map. The interface has the coordinates of each line as well as its color.
+

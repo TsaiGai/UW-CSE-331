@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graph.junitTests.GraphTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-19T00:53:41" hostname="DEX" time="0.017">
+  <properties/>
+  <testcase name="testAddSameEdge" classname="graph.junitTests.GraphTest" time="0.011"/>
+  <testcase name="testAddSameNode" classname="graph.junitTests.GraphTest" time="0.001"/>
+  <testcase name="testAddEdgeTwice" classname="graph.junitTests.GraphTest" time="0.002"/>
+  <testcase name="testListChildrenNoNode" classname="graph.junitTests.GraphTest" time="0.001"/>
+  <testcase name="testEdgeToNoChild" classname="graph.junitTests.GraphTest" time="0.001"/>
+  <testcase name="testEdgeToNoParent" classname="graph.junitTests.GraphTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

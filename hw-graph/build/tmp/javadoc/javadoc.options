@@ -1,0 +1,12 @@
+-classpath 'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-graph\\build\\classes\\java\\main;C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-graph\\build\\resources\\main'
+-d 'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-graph\\build\\docs\\javadoc'
+-doctitle 'hw-graph API'
+-notimestamp 
+-quiet 
+-tag 'spec.modifies:a:Modifies:'
+-tag 'spec.effects:a:Effects:'
+-tag 'spec.requires:a:Requires:'
+-tag 'spec.specfield:a:Specfield:'
+-tag 'spec.derivedfield:a:Derived Field:'
+-windowtitle 'hw-graph API'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-graph\\src\\main\\java\\graph\\Graph.java'

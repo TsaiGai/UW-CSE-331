@@ -1,0 +1,42 @@
+## CSE 331 hw-graph Coding Questions
+
+## Part 2
+###########################################################################
+
+Briefly explain why you included the operations you did and why you feel they are a sufficient
+interface to a graph. If your design includes multiple classes or interfaces, explain why you
+included each one; if not, explain whether you considered additional classes and why you decided
+not to include them.
+
+
+TODO: Your answer here!
+CLASS - Graph
+    I decided to only include one class for the interface because it would be simpler to
+    have all the methods in one class. When issues arise, debugging multiple classes wouldn't
+    be necessary.
+
+METHODS - createGraph, addNode, addEdge, listNodes, listChildren
+    createGraph - this method constructs the empty graph for nodes to be added to. It's
+    necessary as a framework for the nodes and edges.
+    addNode - this method creates and adds a node to the graph. It's necessary for adding
+    new nodes.
+    addEdge - this method creates and adds an edge to the graph, connecting two nodes.
+    It's necessary for adding new edges.
+    listNodes - this method lists the nodes in the graph. It's necessary for visualizing
+    the nodes in the graph.
+    listChildren - this method lists the children of a respective parent node. It's necessary
+    for visualizing a parent node and its children.
+
+
+## Part 3
+###########################################################################
+
+What was your testing strategy for this assignment? How do your script tests and JUnit tests
+differ from each other (if they do), and why?
+
+
+TODO: Your answer here!
+My testing strategy for this assignment was to run a series of tests through each of the methods
+in the Graph class. The script methods primarily focus on making sure the correct output is
+produced and that each graph has the correct number of nodes and edges. The JUnit tests focused
+on edge cases and scenarios where an error could occur.

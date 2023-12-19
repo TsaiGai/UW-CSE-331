@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bases.BaseDigitsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-10-21T05:25:34" hostname="DEX" time="0.004">
+  <properties/>
+  <testcase name="testDigitToCharBase16Letters" classname="bases.BaseDigitsTest" time="0.003"/>
+  <testcase name="testCharToDigitBase16Nums" classname="bases.BaseDigitsTest" time="0.001"/>
+  <testcase name="testCharToDigitBase16Letters" classname="bases.BaseDigitsTest" time="0.0"/>
+  <testcase name="testCharToDigitBase12" classname="bases.BaseDigitsTest" time="0.0"/>
+  <testcase name="testDigitToCharBase12" classname="bases.BaseDigitsTest" time="0.0"/>
+  <testcase name="testDigitToCharBase16Nums" classname="bases.BaseDigitsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

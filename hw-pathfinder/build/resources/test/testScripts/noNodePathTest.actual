@@ -1,0 +1,11 @@
+# Find a path of a non-existent node.
+
+created graph simpleGraph
+
+added node A to simpleGraph
+added node B to simpleGraph
+
+unknown: C
+unknown: C
+unknown: C
+unknown: D

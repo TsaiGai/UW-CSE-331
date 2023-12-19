@@ -1,0 +1,13 @@
+-classpath 'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-sets\\build\\classes\\java\\main;C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-sets\\build\\resources\\main'
+-d 'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-sets\\build\\docs\\javadoc'
+-doctitle 'hw-sets API'
+-notimestamp 
+-quiet 
+-tag 'spec.modifies:a:Modifies:'
+-tag 'spec.effects:a:Effects:'
+-tag 'spec.requires:a:Requires:'
+-tag 'spec.specfield:a:Specfield:'
+-tag 'spec.derivedfield:a:Derived Field:'
+-windowtitle 'hw-sets API'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-sets\\src\\main\\java\\sets\\FiniteSet.java'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-sets\\src\\main\\java\\sets\\SimpleSet.java'

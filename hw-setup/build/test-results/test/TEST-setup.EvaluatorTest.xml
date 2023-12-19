@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="setup.EvaluatorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-10-13T18:14:37" hostname="DEX" time="0.006">
+  <properties/>
+  <testcase name="testEval1Quadratic2" classname="setup.EvaluatorTest" time="0.003"/>
+  <testcase name="testEval1Constant" classname="setup.EvaluatorTest" time="0.0"/>
+  <testcase name="testEval2Quintic" classname="setup.EvaluatorTest" time="0.0"/>
+  <testcase name="testEval1Linear" classname="setup.EvaluatorTest" time="0.0"/>
+  <testcase name="testEval2Linear" classname="setup.EvaluatorTest" time="0.0"/>
+  <testcase name="testEval2Quadratic2" classname="setup.EvaluatorTest" time="0.0"/>
+  <testcase name="testEval2Quadratic" classname="setup.EvaluatorTest" time="0.0"/>
+  <testcase name="testEval1Quadratic" classname="setup.EvaluatorTest" time="0.001"/>
+  <testcase name="testEval2Constant" classname="setup.EvaluatorTest" time="0.0"/>
+  <testcase name="testEval1Quintic" classname="setup.EvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

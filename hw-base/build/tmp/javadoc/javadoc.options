@@ -1,0 +1,13 @@
+-classpath 'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-base\\build\\classes\\java\\main;C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-base\\build\\resources\\main'
+-d 'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-base\\build\\docs\\javadoc'
+-doctitle 'hw-base API'
+-notimestamp 
+-quiet 
+-tag 'spec.modifies:a:Modifies:'
+-tag 'spec.effects:a:Effects:'
+-tag 'spec.requires:a:Requires:'
+-tag 'spec.specfield:a:Specfield:'
+-tag 'spec.derivedfield:a:Derived Field:'
+-windowtitle 'hw-base API'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-base\\src\\main\\java\\bases\\BaseDigits.java'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-base\\src\\main\\java\\bases\\Natural.java'

@@ -1,0 +1,18 @@
+-classpath 'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\build\\classes\\java\\main;C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\build\\resources\\main'
+-d 'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\build\\docs\\javadoc'
+-doctitle 'hw-setup API'
+-notimestamp 
+-quiet 
+-tag 'spec.modifies:a:Modifies:'
+-tag 'spec.effects:a:Effects:'
+-tag 'spec.requires:a:Requires:'
+-tag 'spec.specfield:a:Specfield:'
+-tag 'spec.derivedfield:a:Derived Field:'
+-windowtitle 'hw-setup API'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\src\\main\\java\\setup\\Adder.java'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\src\\main\\java\\setup\\Evaluator.java'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\src\\main\\java\\setup\\Fibonacci.java'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\src\\main\\java\\setup\\Finder.java'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\src\\main\\java\\setup\\HelloWorld.java'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\src\\main\\java\\setup\\HolaWorld.java'
+'C:\\Users\\iants\\IdeaProjects\\cse331-22au-itsai2\\hw-setup\\src\\main\\java\\setup\\RandomHello.java'

@@ -1,0 +1,49 @@
+## CSE 331 hw-setup Questions
+## Part 7: Answering Questions About the Code
+
+1. Why did Fibonacci fail the testThrowsIllegalArgumentException< test? What (if anything) did
+you have to do to fix it? If you did not have to change anything to fix this issue, explain why.
+
+Fibonacci failed the testThrowsIllegalArgumentException< test because the first condition of the if
+loop contained n <= 0, but 0 is not a negative number, thus failing the test. To fix this issue, I
+revised the code to n < 0, eliminating the case that n = 0.
+
+
+2. Why did Fibonacci fail the testBaseCase test? What (if anything) did you have to do to fix
+it? If you did not have to change anything to fix this issue, explain why.
+
+Fibonacci failed the testBaseCase test because the second condition of the if loop contained
+n <= 2, but 2 cannot be equal to 1, thus failing the test. To fix this issue, I revised the code
+to n < 2, eliminating the case that n = 2.
+
+
+3.Why did Fibonacci fail the testInductiveCase test? What (if anything) did you have to do to
+fix it? If you did not have to change anything to fix this issue, explain why.
+
+Fibonacci did not fail the testInductiveCase test because the last condition of the if loop
+properly uses recursion to backtrack and add to the Fibonacci sequence.
+
+
+## Part 8: Debugger Tutorial
+
+1. What are the values of "x", "y", and "sum" printed by your statement? Why was x not equal 
+to the first integer entered here, and how could we fix this?
+
+When entered 3 for x and 4 for y, the x that was printed was 2, the y that was printed was 4,
+and the sum that was printed was -2. The reason x was not equal to the first integer entered is
+because of line 29, which divides x by 2 and then multiplies the new x by 2. To fix, this, we
+can simply replace 2 * (console.nextInt() / 2) with console.nextInt().
+
+2. What are all the names and values listed in the “Variables” panel? What does the “frames” 
+tab list as the current method and line number? (Write down the text that was highlighted when 
+the Debug perspective first opened.)
+
+The names listed in the "Variables" panel are x and y, and their respective values are 3 and 4.
+The "frames" lists the current method as computeSum and the line number as 43.
+
+
+3. What are all the names and values listed in the “Variables” panel after each of the two step overs?
+
+The names x and y with values 3 and 4 remain the whole time, while after the first step over a new name
+called args is introduced with a value of [], and after another step over the sum is calculated with a
+value of -1.

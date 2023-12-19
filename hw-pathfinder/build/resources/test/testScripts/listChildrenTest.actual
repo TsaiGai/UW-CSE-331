@@ -1,0 +1,19 @@
+# Testing the correct output for children of a node
+
+created graph simpleGraph
+
+added node A to simpleGraph
+
+the children of A in simpleGraph are:
+
+added node B to simpleGraph
+
+added edge 1.000 from A to B in simpleGraph
+
+the children of A in simpleGraph are: B(1.000)
+
+added edge 2.001 from B to A in simpleGraph
+added edge 3.000 from B to B in simpleGraph
+
+the children of A in simpleGraph are: B(1.000)
+the children of B in simpleGraph are: A(2.001) B(3.000)

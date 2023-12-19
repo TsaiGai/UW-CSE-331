@@ -1,0 +1,65 @@
+## CSE 331 HW6 Questions
+
+NOTE: This file is used as part of HW6, and is not due as part of the HW5
+submission. You may leave it blank for HW5.
+
+## Part 1
+###########################################################################
+
+A few examples of possible Graph representations:
+
+    A: A collection of nodes and a collection of edges.
+    B: An adjacency list, in which each node is associated with a list of its outgoing edges.
+    C: An adjacency matrix, which explicitly represents, for every pair ⟨A,B⟩ of nodes, whether there 
+       is a link from A to B, and how many.
+
+1. In two or three sentences, explain an advantage and a disadvantage of each of the
+representations listed above (for example, in terms of runtime complexity, space
+complexity, or ease of implementation).
+
+A - An advantage of A would be its ease of implementation since the main focus would just
+be to implement two collections. A disadvantage would be its space complexity since
+the collections would be very large and take up much space.
+B - An advantage of B would be its runtime complexity since each node is already linked to
+its edges. A disadvantage would be ease of implementation since it may be hard to implement
+every list with its nodes.
+C - An advantage of C would be its space complexity since the representation wouldn't
+take up much space. A disadvantage would be its ease of implementation since there
+are many factors to consider when implementing.
+
+
+2. In two to three sentences, describe the representation you chose and explain why you
+chose it. If you chose to use a different representation than one of the three we described
+above, be sure to list its advantages and disadvantages, too.
+
+I chose to go with example B due to its balance of implementation complexity and space
+complexity. Implementing an adjacency list would be more difficult than a collection, but
+not as complicated as constructing an adjacency matrix. Likewise, an adjacency list would
+take up more space than a matrix but less than a collection.
+
+
+## Part 4
+###########################################################################
+
+    (Please keep your answers brief and to-the-point.)
+
+1. Describe any new tests you added and why you added them, or why you feel that your original
+tests alone are sufficient.
+
+Script Tests
+    multiNodeEdgeGraphTest to see if the program can handle all the information.
+    sameNodeEdgeTest to test nodes sharing the same edges.
+
+JUnit Tests
+    testEdgeToNoParent to test implementing an edge to no parent.
+    testEdgeToNoChild to test implementing an edge to no child.
+
+2. Did you make any changes to your specifications as you were implementing your Graph? (yes/no)
+If yes, describe your changes and why you made them.
+
+yes
+Added @param to methods that required inputs.
+Added @throws for exceptions that are thrown within the methods.
+Expanded the abstraction function.
+
+

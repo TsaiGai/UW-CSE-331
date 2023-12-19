@@ -1,0 +1,19 @@
+# Testing the correct output for children of a node
+
+CreateGraph simpleGraph
+
+AddNode simpleGraph A
+
+ListChildren simpleGraph A
+
+AddNode simpleGraph B
+
+AddEdge simpleGraph A B 1.0
+
+ListChildren simpleGraph A
+
+AddEdge simpleGraph B A 2.0009
+AddEdge simpleGraph B B 3.0
+
+ListChildren simpleGraph A
+ListChildren simpleGraph B

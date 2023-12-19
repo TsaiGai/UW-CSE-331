@@ -1,0 +1,35 @@
+# Testing the edge cases for the nodes and edges of a graph
+
+# Test 1 - standard case with rounding
+
+CreateGraph simpleGraph1
+
+AddNode simpleGraph1 A
+AddNode simpleGraph1 B
+AddNode simpleGraph1 C
+
+AddEdge simpleGraph1 A B 1.999
+AddEdge simpleGraph1 B C 2.9995
+AddEdge simpleGraph1 A C 3.0
+
+# Test 2 - case involving cycling of edges
+
+CreateGraph simpleGraph2
+
+AddNode simpleGraph2 A
+AddNode simpleGraph2 B
+
+AddEdge simpleGraph2 A B 1.000
+AddEdge simpleGraph2 B A 2.9996
+AddEdge simpleGraph2 A B 3.0001
+
+# Test 3 - case involving a duplicate edge to one node
+
+CreateGraph simpleGraph3
+
+AddNode simpleGraph3 A
+
+AddEdge simpleGraph3 A A 1.000
+AddEdge simpleGraph3 A A 2.0
+
+

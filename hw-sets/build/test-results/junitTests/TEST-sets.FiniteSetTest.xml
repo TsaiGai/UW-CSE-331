@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sets.FiniteSetTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-11-19T00:53:44" hostname="DEX" time="0.007">
+  <properties/>
+  <testcase name="testEqualsSingleton" classname="sets.FiniteSetTest" time="0.003"/>
+  <testcase name="testUnion" classname="sets.FiniteSetTest" time="0.001"/>
+  <testcase name="testSize" classname="sets.FiniteSetTest" time="0.0"/>
+  <testcase name="testCreationBasic" classname="sets.FiniteSetTest" time="0.001"/>
+  <testcase name="testCreationNegative" classname="sets.FiniteSetTest" time="0.0"/>
+  <testcase name="testCreationEmptySet" classname="sets.FiniteSetTest" time="0.001"/>
+  <testcase name="testEqualsEmptySet" classname="sets.FiniteSetTest" time="0.0"/>
+  <testcase name="testDifference" classname="sets.FiniteSetTest" time="0.0"/>
+  <testcase name="testIntersection" classname="sets.FiniteSetTest" time="0.0"/>
+  <testcase name="testEqualsComplexSet" classname="sets.FiniteSetTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

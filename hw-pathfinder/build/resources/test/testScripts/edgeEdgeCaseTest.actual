@@ -1,0 +1,35 @@
+# Testing the edge cases for the nodes and edges of a graph
+
+# Test 1 - standard case with rounding
+
+created graph simpleGraph1
+
+added node A to simpleGraph1
+added node B to simpleGraph1
+added node C to simpleGraph1
+
+added edge 1.999 from A to B in simpleGraph1
+added edge 3.000 from B to C in simpleGraph1
+added edge 3.000 from A to C in simpleGraph1
+
+# Test 2 - case involving cycling of edges
+
+created graph simpleGraph2
+
+added node A to simpleGraph2
+added node B to simpleGraph2
+
+added edge 1.000 from A to B in simpleGraph2
+added edge 3.000 from B to A in simpleGraph2
+added edge 3.000 from A to B in simpleGraph2
+
+# Test 3 - case involving a duplicate edge to one node
+
+created graph simpleGraph3
+
+added node A to simpleGraph3
+
+added edge 1.000 from A to A in simpleGraph3
+added edge 2.000 from A to A in simpleGraph3
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sets.SimpleSetTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-10-27T05:08:01" hostname="DEX" time="0.007">
+  <properties/>
+  <testcase name="testUnionComplementAndNot" classname="sets.SimpleSetTest" time="0.001"/>
+  <testcase name="testEqualsSingleton" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testUnion" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testSize" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testToString" classname="sets.SimpleSetTest" time="0.002"/>
+  <testcase name="testDifferenceComplements" classname="sets.SimpleSetTest" time="0.001"/>
+  <testcase name="testDifferenceComplementAndNot" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testComplementSingleton" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testComplementEmptySet" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testIntersectionComplements" classname="sets.SimpleSetTest" time="0.001"/>
+  <testcase name="testEqualsEmptySet" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testIntersectionComplementAndNot" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testDifference" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testIntersection" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testUnionComplements" classname="sets.SimpleSetTest" time="0.001"/>
+  <testcase name="testComplementComplexSet" classname="sets.SimpleSetTest" time="0.0"/>
+  <testcase name="testEqualsComplexSet" classname="sets.SimpleSetTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

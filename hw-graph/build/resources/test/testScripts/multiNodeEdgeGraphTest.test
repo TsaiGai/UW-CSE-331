@@ -1,0 +1,21 @@
+# Create graphs
+CreateGraph graph1
+CreateGraph graph2
+
+# Add nodes to the graphs
+AddNode graph1 n1
+AddNode graph1 n2
+AddNode graph2 n3
+AddNode graph2 n4
+
+# Add edges to the graphs
+AddEdge graph1 n1 n2 e1
+AddEdge graph2 n3 n4 e2
+
+# Print the nodes in the graphs
+ListNodes graph1
+ListNodes graph2
+
+# Print the outgoing edges in the graphs
+ListChildren graph1 n1
+ListChildren graph2 n3
